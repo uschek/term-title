@@ -32,4 +32,4 @@ The window title.
 
 ## License
 
-MIT © [Christoph Uschkrat](http://github.com/uschek)
+MIT © [Christoph Uschkrat](https://c.uschkrat.com)
