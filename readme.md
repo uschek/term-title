@@ -1,4 +1,4 @@
-# term-title
+# term-title [![npm](https://img.shields.io/npm/v/term-title.svg?style=flat-square)](https://www.npmjs.com/package/term-title) [![Build status](https://img.shields.io/travis/uschek/term-title.svg?style=flat-square)](https://travis-ci.org/uschek/term-title)
 
 > Set the terminal window title
 
